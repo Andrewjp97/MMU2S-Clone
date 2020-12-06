@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_MMU2S/templates *
+recursive-include octoprint_MMU2S/translations *
+recursive-include octoprint_MMU2S/static *
